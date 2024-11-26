@@ -1,6 +1,3 @@
-# async-race-api
-Api for Rolling Scopes School task "Async Race".
-
 ## Setup and Running
 
 - Use `node 14.x` or higher.
